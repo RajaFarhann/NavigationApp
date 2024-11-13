@@ -8,7 +8,7 @@ object DummyData {
         Mentor(
             id = 1,
             name = "Reza Kurniawan",
-            nickname = "Reza",
+            nickname = "Jer",
             role = "Technical Mobile",
             photo = R.drawable.reza
         ),
@@ -21,14 +21,14 @@ object DummyData {
         ),
         Mentor(
             id = 3,
-            name = "Raihan Zaky",
-            nickname = "Han",
+            name = "Raihan Zhaky",
+            nickname = "Rehan Ganteng",
             role = "Technical Mobile",
             photo = R.drawable.raihan
         ),
         Mentor(
             id = 4,
-            name = "Nabila Syafrina Bukka",
+            name = "Nabila Putri Syafrina Bukka",
             nickname = "Nab",
             role = "Technical Mobile",
             photo = R.drawable.nabila

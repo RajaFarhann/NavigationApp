@@ -49,14 +49,14 @@ fun MentorItem(
                 text = mentor.name,
                 style = MaterialTheme.typography.titleMedium,
                 overflow = TextOverflow.Ellipsis,
-                modifier = Modifier.width(200.dp),
+                modifier = Modifier.width(170.dp),
                 maxLines = 1
             )
             Text(
                 text = mentor.role,
                 color = MaterialTheme.colorScheme.primary,
                 overflow = TextOverflow.Ellipsis,
-                modifier = Modifier.width(200.dp),
+                modifier = Modifier.width(170.dp),
                 maxLines = 1
             )
         }
